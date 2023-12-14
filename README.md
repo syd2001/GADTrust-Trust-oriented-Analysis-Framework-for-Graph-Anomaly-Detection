@@ -1,1 +1,1 @@
-# GADTrust-Trust-oriented-Analysis-Framework-for-Graph-Anomaly-Detection
+# GADTrust:A Trust-oriented Visual Analysis Framework for GraphAnomaly Detection from An Accessibility Perspective
